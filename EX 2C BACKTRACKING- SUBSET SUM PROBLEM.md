@@ -12,7 +12,7 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 5. If all elements are processed and no valid subset is found, return False.  
 
 ## Program:
-```
+```python
 /*
 Program to implement Subset sum problem.
 Developed by: Gokul J 
