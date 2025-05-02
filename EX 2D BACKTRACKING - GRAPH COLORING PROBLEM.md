@@ -17,8 +17,8 @@ To solve the Graph Coloring Problem using backtracking, assigning colors to the 
 ```python
 /*
 Program to implement Graph Coloring Problem using backtracking.
-Developed by: Gokul J 
-Register Number: 212222230038 
+Developed by: Gokularamanan K
+Register Number: 212222230040
 */
 
 class Graph():
